@@ -35,7 +35,7 @@ const Form = () => {
                 </div><br />
 
                 <div className="form-group">
-                <label>Confirmn Password </label>
+                <label>Confirm Password </label>
                 <input onChange={ (e) => setConfirmPassword(e.target.value)} type="password"/>
                 </div>
 
